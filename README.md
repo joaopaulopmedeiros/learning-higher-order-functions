@@ -1,6 +1,5 @@
 # Learning-higher-order-functions
 Programação de alto nível envolve abstração. Esconder detalhes de implementação, visando tornar simples o entendimento do código no momento de leitura por outros programadores.
-Uma.
 É comum que um algoritmo execute uma instrução repetidas vezes. Por exemplo, exibir os números de 0 a 9 no console.
 
 ```javascript
