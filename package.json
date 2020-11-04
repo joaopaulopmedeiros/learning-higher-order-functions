@@ -1,0 +1,8 @@
+{
+    "name": "learning-higher-order-functions",
+    "author": "João Paulo M.",
+    "main": "index.js",
+    "scripts": {
+        "watch": "nodemon index.js"
+    }
+}
