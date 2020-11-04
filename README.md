@@ -49,3 +49,6 @@ Dessa forma, com higher order functions já trazidas pelo próprio JS podemos ab
 - Reduce
 - Some
 - Every
+
+## 📘 References
+-   [Eloquent Javascript](https://eloquentjavascript.net/05_higher_order.html)
