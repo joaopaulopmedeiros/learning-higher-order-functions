@@ -33,17 +33,15 @@ doSomethingOverTime(4, console.log)
 Conseguiu pegar o pulo do gato?
 
 ## Higher Order Functions
-São funções que operam em outras funções! Seja as tomando como argumentos ou as retornando. Essas funções nos permitem abstrair sobre ações. Eles vêm em várias formas. Por exemplo, podemos ter funções que criam novas funções.
-
-Há um método de array built-in do Javascript que permite fazer iterações em elementos como higher order function. Esse é o forEach.
+São funções que operam em outras funções! Seja as tomando como argumentos ou as retornando. Essas funções nos permitem abstrair sobre ações. Eles vêm em várias formas. Por exemplo,  há um método de array built-in do Javascript que permite fazer iterações em elementos. Esse é o forEach.
 
 ```javascript
 const array = [100, 22, 34]
 
 array.forEach(value => console.log(value));
 ```
-
-Dessa forma, com higher order functions já trazidas pelo próprio JS podemos abstrair operações e aumentar a legibilidade do código. Dentre essas, estão:
+Com ele, podemos diminuir a verbosidade do código e operar com simplicidade no loop de uma estrutura de dados. Isso aumenta a legibilidade e todos saem ganhando. 
+No JS, existem outras funções do tipo. As principais são:
 - Map
 - Filter
 - Reduce
